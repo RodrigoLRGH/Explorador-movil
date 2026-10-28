@@ -37,4 +37,3 @@ Escanea el código QR con Expo Go (cámara del teléfono en iOS, o la propia app
 - `capturas/camara.jpeg`: fotografía capturada
 - `capturas/ubicacion.jpeg`: coordenadas obtenidas (con dígitos ocultos por privacidad)
 - `capturas/brujula.jpeg`: lectura de la brújula
-- `capturas/video.mp4`: Video de demostración (1–2 minutos) en un teléfono físico
